@@ -31,7 +31,7 @@ class Stack {
   }
 
   peek() {
-    return this.storage[this.size]
+    return this.storage[this.size];
   }
 }
 
